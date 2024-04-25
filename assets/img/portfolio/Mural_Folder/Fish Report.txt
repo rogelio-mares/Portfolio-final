@@ -1,0 +1,110 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Fish.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: points
+Artboard Dimensions: 1080 pt x 1080 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Futura PT Bold (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Roy\OneDrive\Pictures\Screenshots\Screenshot 2024-04-01 101541.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 281K, 215 by 335 pixels
+Dimensions: 378.708 by 590.08 points 
+Resolution: 40.876 by 40.876 pixels per inch
+
+
+C:\Users\Roy\Downloads\d715a30fce2c00b78ef3021e4e82a742.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1398K, 563 by 848 pixels
+Dimensions: 563 by 848 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\Roy\Downloads\20221013_Industrial_1499.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81525K, 6461 by 4307 pixels
+Dimensions: 1550.64 by 1033.68 points 
+Resolution: 300 by 300 pixels per inch
+
+
+C:\Users\Roy\Downloads\20221013_Industrial_1498.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 83276K, 6530 by 4353 pixels
+Dimensions: 1567.2 by 1044.72 points 
+Resolution: 300 by 300 pixels per inch
+
+
+C:\Users\Roy\Downloads\20210331_flyfishing_1729.JPG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 27272K, 3737 by 2491 pixels
+Dimensions: 1418.93 by 945.827 points 
+Resolution: 189.625 by 189.625 pixels per inch
+
+
+C:\Users\Roy\Downloads\20200515_rainbow_0001.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 33509K, 3905 by 2929 pixels
+Dimensions: 1898.179 by 1423.756 points 
+Resolution: 148.121 by 148.121 pixels per inch
+
+
+C:\Users\Roy\Downloads\20070711_MSLA_.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 25656K, 2713 by 3228 pixels
+Dimensions: 651.12 by 774.72 points 
+Resolution: 300 by 300 pixels per inch
+
+
+C:\Users\Roy\Downloads\20070711_MSLA_.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 25656K, 2713 by 3228 pixels
+Dimensions: 2058.339 by 2449.067 points 
+Resolution: 94.9 by 94.9 pixels per inch
